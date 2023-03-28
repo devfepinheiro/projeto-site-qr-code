@@ -1,0 +1,1 @@
+alert("Eu sabia que você não ia perder essa! Agora que você ta aqui, deixa eu te mostrar essa notícia muito interessante. Vem conferir comigo!");
